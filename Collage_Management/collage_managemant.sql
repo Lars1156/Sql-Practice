@@ -14,4 +14,6 @@ create table collage (
   collage_deptname varchar(40) 
 );
 
+select * from collage;
+
 
